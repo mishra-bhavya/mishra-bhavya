@@ -5,10 +5,11 @@ Focused on building real-world projects that combine AI with user interaction.
 
 ---
 
-### 🧠 Current Projects
-- 🎮 Foundry – Career Simulation Game (in progress)
-- 🏥 CAREAI – Nurse Assistance Dashboard
-- 🤖 Bagheera - AI Chatbot
+### 🚀 Featured Projects
+
+- 🎮 **Foundry** – Decision-based career simulation game  
+- 🤖 **Bagheera** – AI chatbot (backend deployed)  
+- 🏥 **CAREAI** – Nurse assistance system (hackathon project)
 
 ---
 
