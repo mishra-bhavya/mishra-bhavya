@@ -1,3 +1,4 @@
+![Banner](assets/banner.png)
 # Hi, I'm Bhavya 👋
 
 ### 🚀 Building AI-powered systems and simulation-based experiences
