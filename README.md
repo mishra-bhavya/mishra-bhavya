@@ -8,7 +8,7 @@ Focused on building real-world projects that combine AI with user interaction.
 ### 🧠 Current Projects
 - 🎮 Foundry – Career Simulation Game (in progress)
 - 🏥 CAREAI – Nurse Assistance Dashboard
-- 🤖 AI Chatbot
+- 🤖 Bagheera - AI Chatbot
 
 ---
 
